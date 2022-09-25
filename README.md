@@ -23,4 +23,4 @@ federal employee Intent to Leave.
 **Notebooks** contains notebooks for early data analysis, data transformation for two datasets (Large and Tiny_2), machine learning models, and post-modeling data analyis</br>
 **Supporting files** contains the list of survey questions, as well as the variable map with feature importances that contributed to recursive feature elimination.</br>
 **Paper and Presentation** contains the final paper plus the slide deck used during the final presentation.</br>
-**Data Files** Unfortunately, the data files are too large to upload to GitHub. Please contact a team member.</br>
+**Data Files** contains instructions on how to access the data files that work with the Notebooks.</br>
