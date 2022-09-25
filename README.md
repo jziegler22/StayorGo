@@ -20,7 +20,7 @@ Annual Employee Survey (AES), but not the Employee Engagement Index (EEI), to pr
 federal employee Intent to Leave.
 
 ## Files
-**Notebooks** contains notebooks for early data analysis, data transformation for two datasets (Large and Tiny_2), machine learning models, and post-modeling data analyis</br>
+**Notebooks** contains notebooks for early data analysis, data transformation for two datasets (Large and Tiny_2), machine learning model evaluation, final Linear SVC machine learning model, and post-modeling data analyis.</br>
 **Supporting files** contains the list of survey questions, as well as the variable map with feature importances that contributed to recursive feature elimination.</br>
 **Paper and Presentation** contains the final paper plus the slide deck used during the final presentation.</br>
-**Data Files** contains instructions on how to access the data files that work with the Notebooks.</br>
+**Data Files** contains instructions on how to access the data files referenced in the Notebooks.</br>
