@@ -1,0 +1,190 @@
+﻿Drop?,question_id,DataType,survey_section,question_text
+,year,Number,other,
+Drop,response_id,Number,other,
+Drop,random,Number,other,Randomly Assigned Number for individual cases
+,agency_id,Text,agency,Agency identifier
+,Q102,Number,my_work_experience,I am given a real opportunity to improve my skills in my organization.
+,Q103,Number,my_work_experience,I feel encouraged to come up with new and better ways of doing things.
+,Q104,Number,my_work_experience,My work gives me a feeling of personal accomplishment.
+,Q105,Number,my_work_experience,I know what is expected of me on the job.
+,Q106,Number+X,my_work_experience,My workload is reasonable.
+,Q107,Number+X,my_work_experience,My talents are used well in the workplace.
+,Q108,Number+X,my_work_experience,I know how my work relates to the agency's goals.
+,Q109,Number+X,my_work_experience,I can disclose a suspected violation of any law_ rule or regulation without fear of reprisal.
+,Q110,Number,my_work_unit,The people I work with cooperate to get the job done.
+,Q111,Number+X,my_work_unit,In my work unit_ steps are taken to deal with a poor performer who cannot or will not improve.
+,Q112,Number+X,my_work_unit,In my work unit poor performers usually:
+,Q113,Number+X,my_work_unit,In my work unit_ differences in performance are recognized in a meaningful way.
+,Q114,Number+X,my_agency,My work unit has the job-relevant knowledge and skills necessary to accomplish organizational goals.
+,Q115,Number+X,my_agency,Employees are recognized for providing high quality products and services.
+,Q116,Number+X,my_agency,Employees are protected from health and safety hazards on the job.
+,Q117,Number+X,my_agency,My agency is successful at accomplishing its mission.
+,Q118,Number,my_agency,I recommend my organization as a good place to work.
+,Q119,Number+X,my_agency,I believe the results of this survey will be used to make my agency a better place to work.
+,Q120,Number+X,my_work_experience,My supervisor supports my need to balance work and other life issues.
+,Q121,Number+X,my_work_experience,My supervisor is committed to a workforce representative of all segments of society.
+,Q122,Number+X,my_work_experience,Supervisors in my work unit support employee development.
+,Q123,Number,my_work_experience,My supervisor listens to what I have to say.
+,Q124,Number,my_work_experience,My supervisor treats me with respect.
+,Q125,Number,my_work_experience,I have trust and confidence in my supervisor.
+,Q126,Number,my_work_experience,Overall_ how good a job do you feel is being done by your immediate supervisor?
+,Q127,Number+X,my_work_experience,In my organization_ senior leaders generate high levels of motivation and commitment in the workforce.
+,Q128,Number+X,my_work_experience,My organization's senior leaders maintain high standards of honesty and integrity.
+,Q129,Number+X,my_work_experience,Managers communicate the goals of the organization.
+,Q130,Number+X,my_work_experience,Managers promote communication among different work units (for example_ about projects_ goals_ needed resources).
+,Q131,Number+X,my_work_experience,Overall_ how good a job do you feel is being done by the manager directly above your immediate supervisor?
+,Q132,Number+X,my_work_experience,I have a high level of respect for my organization's senior leaders.
+,Q133,Number+X,my_work_experience,Senior leaders demonstrate support for Work/Life programs.
+,Q134,Number,individual,How satisfied are you with your involvement in decisions that affect your work?
+,Q135,Number,individual,How satisfied are you with the information you receive from management on what's going on in your organization?
+,Q136,Number,individual,How satisfied are you with the recognition you receive for doing a good job?
+,Q137,Number,individual,Considering everything_ how satisfied are you with your job?
+,Q138,Number,individual,Considering everything_ how satisfied are you with your pay?
+,Q139,Number,individual,Considering everything_ how satisfied are you with your organization?
+Drop,Q140,Number,covid_19,During the COVID-19 pandemic_ on average what percentage of your work time have you been physically present at your agency worksite (including headquarters_ bureau_ field offices_ etc.)?
+Drop,Q141,Number,covid_19,BEFORE the COVID-19 Pandemic
+Drop,Q142,Number,covid_19,During the PEAK of the COVID-19 Pandemic
+Drop,Q143,Number,covid_19,AS-OF the Date Responded (September-October 2020)
+Drop,Q144,Number,covid_19,Leave under the Emergency Paid Sick Leave Act (part of the Families First Coronavirus Response Act)
+Drop,Q145,Number,covid_19,Other types of leave (sick_ weather & safety_ administrative_ unpaid_ etc.)
+Drop,Q146,Number,covid_19,I have not used leave because of the pandemic
+Drop,Q147,Number,covid_19,During the COVID-19 pandemic_ what percentage of your total work time have you used leave because of the pandemic?
+Drop,Q148,Number,covid_19,How have you changed your participation in alternative work schedules (AWS) because of the COVID-19 pandemic? Examples of AWS include compressed work_ flexible work schedule_ and maxi-flex.
+,Q149,Number,covid_19,Expanded telework 
+,Q150,Number,covid_19,Expanded work schedule flexibilities
+,Q151,Number,covid_19,Expanded leave policies
+,Q152,Number,covid_19,More information on available leave policies 
+,Q153,Number,covid_19,Expanded mental health resources (e.g._ assistance with stress of COVID-19) 
+,Q154,Number,covid_19,Expanded physical health resources (e.g._ temperature checks_ COVID-19 illness testing) at my agency worksite
+,Q155,Number,covid_19,Timely communication about possible COVID-19 illness at my agency worksite 
+,Q156,Number,covid_19,Protection of employees at higher risk for severe illness from COVID-19 exposure
+,Q157,Number,covid_19,Limited access to my agency worksite buildings/facilities (e.g._ closures_ limits on activities with external visitors/groups)
+,Q158,Number,covid_19,Social distancing (e.g._ limits on group size_ reduced access to common areas) in my agency worksite
+,Q159,Number,covid_19,Rearranged workspaces to maximize social distancing
+,Q160,Number,covid_19,Encouraged use of personal protective equipment (PPE) or other safety equipment in my agency worksite
+,Q161,Number,covid_19,Cleaning and sanitizing supplies available to reduce risk of illness in my agency worksite 
+,Q162,Number,covid_19,Training for all employees on health and safety protocols
+,Q163,Number+X,covid_19,…demonstrated commitment to employee health and safety.
+,Q164,Number+X,covid_19,…supported policies and procedures to protect employee health and safety.
+,Q165,Number+X,covid_19,...provided effective communications about the pandemic.
+,Q166,Number+X,covid_19,…shown concern for my health and safety.
+,Q167,Number+X,covid_19,…supported my efforts to stay healthy and safe while working. 
+,Q168,Number+X,covid_19,…created an environment where I can voice my concerns about staying healthy and safe. 
+,Q169,Number,covid_19,Consistent communication (e.g._ organizational status_ what to expect)
+,Q170,Number,covid_19,Training for new/changed work or work processes because of the pandemic
+,Q171,Number,covid_19,Reallocation of resources (e.g._ staffing_ budget_ materials) to support changes in work because of the pandemic
+,Q172,Number,covid_19,Help with commuting issues (e.g._ alternatives to public transportation)
+,Q173,Number,covid_19,Options for work/business travel
+,Q174,Number,covid_19,Information on remote work policies_ procedures_ and expectations 
+,Q175,Number,covid_19,Training on how to work remotely
+,Q176,Number,covid_19,Equipment and technology for working remotely (e.g._ laptops_ cell phone_ Information Technology infrastructure)
+,Q177,Number,covid_19,Expanded collaboration tools (e.g._ video conferencing_ teleconferencing)
+,Q178,Number,covid_19,Expanded training for using remote work tools and applications
+,Q179,Number,covid_19,Expanded Information Technology (IT) support
+,Q180,Number,covid_19,Information about data security policies and procedures 
+,Q181,Number,covid_19,Does the type of work you do require you to be physically present at a worksite (e.g. border patrol_ TSA agent_ meat inspector)?
+,Q182,Number+X,covid_19,How disruptive has the COVID-19 pandemic been to your ability to do your work?
+,Q183,Number+X,covid_19,How have your work demands changed because of the COVID-19 pandemic?
+,Q184,Number+X,covid_19,…met the needs of our customers.
+,Q185,Number+X,covid_19,…contributed positively to my agency’s performance.
+,Q186,Number+X,covid_19,…produced high-quality work.
+,Q187,Number+X,covid_19,…adapted to changing priorities.
+,Q188,Number+X,covid_19,…successfully collaborated.
+,Q189,Number+X,covid_19,…achieved our goals.
+,Q190,Number+X,covid_19,…has met the needs of our customers.
+,Q191,Number+X,covid_19,…has contributed positively to my agency’s performance.
+,Q192,Number+X,covid_19,…has produced high-quality work.
+,Q193,Number+X,covid_19,…has adapted to changing priorities.
+,Q194,Number+X,covid_19,…has successfully collaborated.
+,Q195,Number+X,covid_19,…has achieved our goals.
+,Q196,Number+X,covid_19,In the phased return of employees to the agency worksite (i.e. opening up government)_ my organization has made employee safety a top priority. 
+,Q197,Number+X,covid_19,Based on my organization’s handling of the COVID-19 pandemic_ I believe my organization will respond effectively to future emergencies.
+,Q198,Number+X,covid_19,How satisfied are you with the Telework program in your agency?
+,Q199,Number,covid_19,Alternative Work Schedules (for example_ compressed work schedule_ flexible work schedule)
+,Q200,Number,covid_19,Health and Wellness Programs (for example_ onsite exercise_ flu vaccination_ medical screening_ CPR training_ Health and wellness fair)
+,Q201,Number,covid_19,Employee Assistance Program – EAP (for example_ short-term counseling_ referral services_ legal services_ education services)
+,Q202,Number,covid_19,Child Care Programs (for example_ child care center_ parenting classes and support groups_ back-up care_ subsidy_ flexible spending account)
+,Q203,Number,covid_19,Elder Care Programs (for example_ elder/adult care_ support groups_ resources)
+,Q204,Number,covid_19,None listed above
+,Q205,Number+X,covid_19,Alternative Work Schedules (for example_ compressed work schedule_ flexible work schedule)
+,Q206,Number+X,covid_19,Health and Wellness Programs (for example_ onsite exercise_ flu vaccination_ medical screening_ CPR training_ health and wellness fair)
+,Q207,Number+X,covid_19,Employee Assistance Program - EAP (for example_ short-term counseling_ referral services_ legal services_ education services)
+,Q208,Number+X,covid_19,Child Care Programs (for example_ child care center_ parenting classes and support groups_ back-up care_ subsidy_ flexible spending account)
+,Q209,Number+X,covid_19,Elder Care Programs (for example_ elder/adult care_ support groups_ resources)
+,Q210,Number,covid_19,I do not have any child care responsibilities
+,Q211,Number,covid_19,No arrangements needed to manage child care responsibilities (e.g._ older children)
+,Q212,Number,covid_19,Paid or Unpaid Leave
+,Q213,Number,covid_19,Alternative Work Schedules (for example_ compressed work schedule_ flexible work schedule)
+,Q214,Number,covid_19,Other (child care in someone else's home_ respite care_ agency emergency back-up care_ resource and referral services_ other)
+,Q215,Number,covid_19,I do not have any elder/adult care responsibilities
+,Q216,Number,covid_19,No arrangements needed to manage elder/adult care responsibilities (e.g._ elder can manage tasks of everyday living)
+,Q217,Number,covid_19,Paid or Unpaid Leave
+,Q218,Number,covid_19,Alternative work arrangement (e.g._ telework_ flexible work schedule)
+,Q219,Number,covid_19,Other (elder/adult day care center_ long-term care insurance_ respite care_ other services/arrangements)
+,Q220,Number+X,covid_19,During the COVID-19 pandemic_ how disruptive have school closures/changes been to your ability to do your work?
+,Q221,Number+X,covid_19,During the COVID-19 pandemic_ how disruptive have changes to your children’s day care been to your ability to do your work?
+,Q222,ABCD,demographics,Please select the racial category or categories with which you most closely identify. 
+,Q223,ABCD,demographics,Are you of Hispanic_ Latino_ or Spanish origin? 
+,Q224,ABCD,demographics,Are you an individual with a disability? 
+,Q225,ABCD,demographics,What is your age group? 
+,Q226,ABCD,demographics,What is your supervisory status? 
+,Q227,ABCD,demographics,How long have you been with the Federal Government (excluding military service)? 
+,Q228,ABCD,demographics,Are you: Male or Female
+,Q229,ABCD,demographics,What is your US military service status? 
+Drop,Q230,ABCD,demographics,Before the Covid-19 Pandemic
+Drop,Q231,ABCD,demographics,Today: (September-October 2020)
+Drop,Q232,ABCD,demographics,Has your intention to leave your organization within the next year changed because of the COVID-19 pandemic?
+,Q233,Number,other,Weighting variable
+Drop,Q234,Text,agency,LEVEL1 Codes (one leve below agency)
+,Q235,ABCD,demographics,What is the highest degree or level of education you have completed?
+,Q236,ABCD,demographics,Minority status (coded from DRNO and DHISP)
+Drop,Q237,ABCD,demographics,Are you considering leaving your organization within the next year_ and if so_ why?
+,Q238,Number,my_work_experience,I have enough information to do my job well.
+,Q239,Number,my_work_experience,I like the kind of work I do.
+,Q240,Number,my_work_experience,When needed I am willing to put in the extra effort to get a job done.
+,Q241,Number,my_work_experience,I am constantly looking for ways to do my job better.
+,Q242,Number+X,my_work_experience,I have sufficient resources (for example_ people_ materials_ budget) to get my job done.
+,Q243,Number+X,my_work_experience,The work I do is important.
+,Q244,Number+X,my_work_experience,Physical conditions (for example_ noise level_ temperature_ lighting_ cleanliness in the workplace) allow employees to perform their jobs well.
+,Q245,Number+X,my_work_experience,My performance appraisal is a fair reflection of my performance.
+,Q246,Number+X,my_work_experience,I am held accountable for achieving results.
+,Q247,Number+X,my_work_experience,My training needs are assessed.
+,Q248,Number+X,my_work_experience,In my most recent performance appraisal_ I understood what I had to do to be rated at different performance levels (for example_ Fully Successful_ Outstanding).
+,Q249,Number+X,my_work_unit,My work unit is able to recruit people with the right skills.
+,Q250,Number+X,my_work_unit,Promotions in my work unit are based on merit.
+,Q251,Number+X,my_work_unit,Awards in my work unit depend on how well employees perform their jobs.
+,Q252,Number+X,my_work_unit,Employees in my work unit share job knowledge with each other.
+,Q253,Number+X,my_work_unit,The skill level in my work unit has improved in the past year.
+,Q254,Number,my_work_unit,How would you rate the overall quality of work done by your work unit?
+,Q255,Number+X,my_agency,Employees have a feeling of personal empowerment with respect to work processes.
+,Q256,Number+X,my_agency,Creativity and innovation are rewarded.
+,Q257,Number+X,my_agency,Pay raises depend on how well employees perform their jobs.
+,Q258,Number+X,my_agency,Policies and programs promote diversity in the workplace (for example_ recruiting minorities and women_ training in awareness of diversity issues_ mentoring).
+,Q259,Number+X,my_agency,My organization has prepared employees for potential security threats.
+,Q260,Number+X,my_agency,Arbitrary action_ personal favoritism and coercion for partisan political purposes are not tolerated.
+,Q261,Number+X,my_agency,Prohibited Personnel Practices (for example_ illegally discriminating for or against any employee/applicant_ obstructing a person's right to compete for employment_ knowingly violating veterans' preference requirements) are not tolerated.
+,Q262,Number+X,my_work_experience,My supervisor provides me with opportunities to demonstrate my leadership skills.
+,Q263,Number+X,my_work_experience,Discussions with my supervisor about my performance are worthwhile.
+,Q264,Number+X,my_work_experience,My supervisor provides me with constructive suggestions to improve my job performance.
+,Q265,Number,my_work_experience,In the last six months_ my supervisor has talked with me about my performance.
+,Q266,Number+X,my_work_experience,Supervisors work well with employees of different backgrounds.
+,Q267,Number+X,my_work_experience,Managers review and evaluate the organization's progress toward meeting its goals and objectives.
+,Q268,Number+X,my_work_experience,Managers support collaboration across work units to accomplish work objectives.
+,Q269,Number,individual,How satisfied are you with the policies and practices of your senior leaders?
+,Q270,Number,individual,How satisfied are you with your opportunity to get a better job in your organization?
+,Q271,Number,individual,How satisfied are you with the training you receive for your present job?
+Drop,Q272,Number,shutdown,Which of the following best describes the impact of the partial government shutdown (December 22_ 2018 – January 25_ 2019) on your working/pay status?
+Drop,Q273,Number,shutdown,How was your everyday work impacted during (if you worked) or after the partial government shutdown?
+Drop,Q274,Number,shutdown,Unmanageable workload
+Drop,Q275,Number,shutdown,Missed deadlines
+Drop,Q276,Number,shutdown,Unrecoverable loss of work
+Drop,Q277,Number,shutdown,Reduced customer service
+Drop,Q278,Number,shutdown,Delayed work
+Drop,Q279,Number,shutdown,Reduced work quality
+Drop,Q280,Number,shutdown,Cutback of critical work
+Drop,Q281,Number,shutdown,Time lost in restarting work
+Drop,Q282,Number,shutdown,Unmet statutory requirements
+Drop,Q283,Number,shutdown,Other
+,Q284,Number,shutdown,Are you looking for another job because of the partial government shutdown?
+Drop,Q285,Number+X,shutdown,My agency provided the support (e.g._ communication_ assistance_ guidance) I needed during the partial government shutdown.
+,StayorGo,Text,,
