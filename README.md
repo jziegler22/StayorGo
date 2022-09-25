@@ -1,9 +1,11 @@
-# Should I Stay or Should I go
+# Should I Stay or Should I Go?
 Cohort 27 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
 ## Team Stay or Go
 Joy Wu</br>
 Jennifer Ziegler
+
+## Should I Stay or Should I Go? Applying Machine Learning to the FEVS to Predict Federal Employee Intent to Leave
 
 ## Abstract
 Using Machine Learning, Team Stay or Go analyzed five years of Federal Employee Viewpoint
