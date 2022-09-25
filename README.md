@@ -1,5 +1,9 @@
-# ShouldIStayorShouldIgo
+# Should I Stay or Should I go
 Cohort 27 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
+
+## Team Stay or Go
+Joy Wu
+Jennifer Ziegler
 
 ## Abstract
 Using Machine Learning, Team Stay or Go analyzed five years of Federal Employee Viewpoint
